@@ -1,0 +1,8 @@
+h1{font-size:50px; font-family: 'times new roman'; color: rgb(180, 180, 231);background-color: blue;}
+h2{font-size:50px; font-family: 'times new roman'; color: rgb(217, 242, 217); background-color: green;}
+h3{font-size:50px; font-family: 'times new roman'; color: rgb(232, 232, 208); background-color: yellow;}
+h4{font-size:50px; font-family: 'times new roman'; color: rgb(235, 193, 193); background-color: red;}
+.square{width: 200px; height: 200px; background-color:blue;}
+.rectangle {width: 100px; height: 200px; background-color: green;}
+.highlight1 {background-color: purple;}
+#housemd {width: 200px; height: 200px;}

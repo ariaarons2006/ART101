@@ -1,0 +1,17 @@
+body {background-color: pink; padding:20px;margin:20px;}
+.test-div{
+    background: orange;
+    padding: 20px;
+    margin: 20px;}
+h1, h2, h3 {font-size: 30px; text-decoration:underline;}
+
+div.test-div h1, h2, h3{color: rgb(120, 120, 233);}
+.test-div:hover {background: rgb(239, 163, 239)}
+img#housemd {padding-left: 0px; }
+.special {background-color: rgb(228, 236, 231); }
+.test-div {border:5px solid rgb(182, 110, 182); }
+button {background-color: rgb(167, 226, 167); font-family:'comic sans'; }
+#house {
+    display: flex; justify-content: center; }
+    
+#split{display: flex; Direction: column;}
