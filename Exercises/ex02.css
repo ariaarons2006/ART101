@@ -3,4 +3,4 @@ BODY{background:pink;}
 h1,h2 {font-family: times new roman;color: blueviolet;}
 h1, h2 {padding: 20px 50px 20px 10px; border: 1px dashed green;}
 .highlight_01 {background:#aeff00;}
-img#catphoto {width: 400px; height: 300px;} 
+#catphoto {width: 400px; height: 300px;} 
