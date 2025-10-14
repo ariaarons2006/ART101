@@ -1,0 +1,4 @@
+BODY {background-color:aquamarine;}
+.square{width: 300px; height:300px; background-color:pink;display: flex; justify-content: center; align-items: center; margin:20px;  }
+.rectangle, .rectangle2, .rectangle3 {width:100px; height:50; background-color:lightcoral;display: flex; justify-content: center; align-items: center; margin:20px;}
+#split{display:flex; direction:column; }
