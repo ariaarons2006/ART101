@@ -1,0 +1,8 @@
+BODY {background: url('greenhills.png');padding: 70px;background-repeat: no-repeat; background-size: cover;}
+p {color: rgb(18, 2, 42);}
+p{font-family: 'times new roman'}
+p{font-size: 40px;}
+#housemd {width: 350px; height: 350px;}
+p2{font-family: 'times new roman'; font-size: 40px;float: right;}
+#Wilson {float: right;}
+#output {background-color:aqua}

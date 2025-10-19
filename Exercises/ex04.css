@@ -1,3 +1,4 @@
 BODY {background-color:pink;}
 h1 {font-size:50px; color:rgb(6, 63, 113);}
-button{background-color:rgb(141, 221, 176);font-size:20px; font-family:'times new roman';}
+button{font-size:20px; font-family:'times new roman';}
+#housemd{width:300px; height:300px;}
