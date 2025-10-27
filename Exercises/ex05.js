@@ -29,7 +29,7 @@ $("#needy-button").click(function () {
    $("body").css("background-color", colors[colorCount]);
 
 
-   makeImage("housemd"); 
+   makeImage("wilson"); 
 
    count = count + 1;
    colorCount = colorCount + 1;
