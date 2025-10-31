@@ -78,5 +78,5 @@ makeImage("tails");
    count=count+1
 colorCount= colorCount+1
    if (colorCount == 5) { colorCount = 0; }
-
+createImage("shadow")
 });
