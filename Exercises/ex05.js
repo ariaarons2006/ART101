@@ -11,6 +11,12 @@ function makeImage (imageName) {
 if (colors[colorCount] == "Coral") {
        $("body").append("<img width=50 src='housemd.png'>");
    }
+if (colors[colorCount] == "HotPink") {
+       $("body").append("<img width=50 src='amy.webp'>");
+   }
+if (colors[colorCount] == "Plum") {
+       $("body").append("<img width=50 src='shadow.webp'>");
+   }
 }
 function changeBackground (newColor) {
     $("body").css("background-color", newColor)

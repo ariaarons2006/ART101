@@ -34,7 +34,7 @@ $("#Sonic").click(function () {
 
    $("body").css("background-color", colors[0]);
 
-makeImage ("sonic2"); 
+makeImage ("Blue"); 
    count=count+1
 colorCount= colorCount+1
    if (colorCount == 5) { colorCount = 0; }
@@ -43,7 +43,7 @@ colorCount= colorCount+1
 $("#Amy").click(function () {
 
    $("body").css("background-color", colors[1]);
-makeImage("amy");
+makeImage("Pink");
 
    count=count+1
 colorCount= colorCount+1
@@ -53,7 +53,7 @@ colorCount= colorCount+1
 $("#Shadow").click(function () {
 
    $("body").css("background-color", colors[2]);
-makeImage("shadow");
+makeImage("Black");
 
    count=count+1
 colorCount= colorCount+1
@@ -63,7 +63,7 @@ colorCount= colorCount+1
 $("#Knuckles").click(function () {
 
    $("body").css("background-color", colors[3]);
-makeImage("knuckles");
+makeImage("Red");
 
    count=count+1
 colorCount= colorCount+1
@@ -73,10 +73,9 @@ colorCount= colorCount+1
 $("#Tails").click(function () {
 
    $("body").css("background-color", colors[4]);
-makeImage("tails");
+makeImage("Yellow");
 
    count=count+1
 colorCount= colorCount+1
    if (colorCount == 5) { colorCount = 0; }
-createImage("shadow")
 });
