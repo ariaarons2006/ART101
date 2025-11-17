@@ -21,8 +21,20 @@
 <h1> 🌸 Creatures Garden 🌸 </h1>
 
 <div id="creature-form">
-add a creature 
-<input id=crName type="text">
+<h2> Add a creature !! </h2>
+<div> Name: <input id=crName type="text"
+   maxlength="10"> </div>
+   <div> Color: <input id=crColor type="color"> </div>
+   <div> Number of Eyes: <input id="crEyesNumber" type="number" max="5" min="0"> </div> 
+   <div> Shape: <select type="text" value= "shape" id="crShape">
+      <option value="circle"> Circle </option>
+       <option value="square"> Square </option>
+ <option value="rectangle"> Rectangle </option>
+       <option value="triangle"> Triangle </option>
+   </select> </div> 
+
+
+
 <button id="add-creature"> Let it roam! </button>
 </div>
 
@@ -30,3 +42,4 @@ add a creature
 
 </body>
 </html>
+
